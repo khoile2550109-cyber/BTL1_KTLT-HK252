@@ -1,0 +1,1 @@
+print("Test chức năng merge của Git")
